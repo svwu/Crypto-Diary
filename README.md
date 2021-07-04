@@ -1,4 +1,4 @@
-# Discord Crypto Bot
+# CRYPTO DIARY
 ⚠This is a work in progress project!⚠
 
 ## What is this project about?
