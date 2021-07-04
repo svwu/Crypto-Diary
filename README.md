@@ -12,6 +12,7 @@ Maybe I will make better decisions in future with crypto with this app, before I
 ## What will be used for this app?
 - React.Native
 - Expo Debugger
+- Nice Test Automation !!
 
 ## What features will come?
 - Automatic scan for token on several chains (firstly BSCChain)
